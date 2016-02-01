@@ -6,6 +6,7 @@ class Marathonctl < Formula
   sha256 "89f86f12f393db400a69434081e116ec3390bceb91ad4d35b204bcfbcd098017"
 
   def install
+    mv "marathonctl-darwin-amd64", "marathonctl"
     bin.install "marathonctl"
   end
 end
