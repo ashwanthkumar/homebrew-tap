@@ -1,4 +1,4 @@
-class json2csv < Formula
+class Json2csv < Formula
   desc "CLI tool to convert Indix's Bulk Output JSON to CSV"
   homepage "https://github.com/ashwanthkumar/indix-api-tools"
   url "https://github.com/ashwanthkumar/indix-api-tools/releases/download/v0.0.1/json2csv-darwin-amd64"
