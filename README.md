@@ -27,6 +27,14 @@ brew tap ashwanthkumar/tap
 brew install ashwanthkumar/tap/marathonctl
 ```
 
+#### [`json2csv`](https://github.com/ashwanthkumar/indix-api-tools)
+
+```
+brew update
+brew tap ashwanthkumar/tap
+brew install ashwanthkumar/tap/json2csv
+```
+
 ## Resources on setting up a homebrew tap
 
 * https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md
